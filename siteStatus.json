@@ -1,0 +1,18 @@
+{
+    "customer1":{
+        "BCU":["customer1-branch-216", "customer1-branch-221", "customer1-branch-223", "customer1-branch-224", "customer1-branch-215", "customer1-branch-226", "customer1-branch-217", "customer1-branch-228", "customer1-branch-2231", "customer1-branch-2241", "customer1-branch-2151", "customer1-branch-2261", "customer1-branch-2281"],
+        "In Progress":["customer1-branch-2171"]
+    },
+    "customer2":{
+        "BCU":["customer2-branch-1181", "customer2-branch-1232", "customer2-branch-1183", "customer2-branch-1234", "customer2-branch-1185", "customer2-branch-1236", "customer2-branch-1187", "customer2-branch-1238", "customer2-branch-11831", "customer2-branch-12341", "customer2-branch-11851", "customer2-branch-12361", "customer2-branch-11871"],
+        "In Progress":[]
+    },
+    "customer3":{
+        "BCU":["customer3-branch-1181", "customer3-branch-1232", "customer3-branch-11831", "customer3-branch-12341", "customer3-branch-11851", "customer3-branch-12361", "customer3-branch-11871", "customer3-branch-12381", "customer3-branch-1183", "customer3-branch-1234", "customer3-branch-1185", "customer3-branch-1236","customer3-branch-1187", "customer3-branch-1238"],
+        "In Progress":[]
+    },
+    "customer4":{
+        "BCU":["customer4-branch-1181", "customer4-branch-1232", "customer4-branch-1183", "customer4-branch-1234", "customer4-branch-1185", "customer4-branch-1236", "customer4-branch-1187", "customer4-branch-1238", "customer4-branch-11831", "customer4-branch-12341", "customer4-branch-11851", "customer4-branch-12361", "customer4-branch-11871", "customer4-branch-12381"],
+        "In Progress":[]
+    }
+}
