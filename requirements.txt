@@ -1,0 +1,7 @@
+# major packages
+plotly==5.13.1
+networkx==2.6.3
+
+# common packages
+pandas==1.3.5
+numpy==1.21.6
