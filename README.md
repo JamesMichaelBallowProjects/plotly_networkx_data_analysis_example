@@ -1,6 +1,6 @@
 ![Plotly](https://camo.githubusercontent.com/d4b85dc983c64c148504c0aea59d9cefa65b75a8e538d932c592f2fca15b3b82/68747470733a2f2f696d616765732e706c6f742e6c792f6c6f676f2f706c6f746c796a732d6c6f676f4032782e706e67)
 ![NetworkX](https://networkx.org/_static/networkx_logo.svg)
-# Plotly Data Plotting Example
+# Plotly and NetworkX Data Analysis Example
 ---
 ## Purpose
 This repo is one of a collection of repos that I have to exhibit my programming/technical skills. In this repo, I exhibit the following:
