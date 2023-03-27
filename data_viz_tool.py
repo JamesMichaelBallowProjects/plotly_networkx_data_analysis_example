@@ -174,9 +174,9 @@ def main():
             for trace in masterTraceList:
                 if trace in connections[customer][site]:
                     if trace not in dataPresent[customer][site]:
-                        G.add_edge(site, trace, color=GREEN)
-                    else:
                         G.add_edge(site, trace, color=RED)
+                    else:
+                        G.add_edge(site, trace, color=GREEN)
     # ---------------- Network Generation -------------------------
     # ---------------- Network Generation -------------------------
 
